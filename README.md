@@ -1,6 +1,6 @@
 # simple_neural_net
 
-Modelo simples de rede neural para identificação dos números 0 e 5 em imagens do MNIST dataset.
+Modelo simples de rede neural para identificação dos números 0 e 5 em imagens do MNIST database: http://yann.lecun.com/exdb/mnist/
 
 Configuração do ambiente fornecida pelo repositório: https://github.com/fastai/fastbook
 
